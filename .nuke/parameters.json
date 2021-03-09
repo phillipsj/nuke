@@ -1,4 +1,5 @@
 {
   "$schema": "./build.schema.json",
-  "Solution": "nuke-common.sln"
+  "Solution": "nuke-common.sln",
+  "GlobalSolution": "nuke-global.sln"
 }
