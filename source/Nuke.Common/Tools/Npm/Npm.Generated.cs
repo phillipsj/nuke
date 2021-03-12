@@ -1,4 +1,4 @@
-// Generated from https://github.com/nuke-build/nuke/blob/master/build/specifications/Npm.json
+// Generated from https://github.com/phillipsj/nuke/blob/master/build/specifications/Npm.json
 
 using JetBrains.Annotations;
 using Newtonsoft.Json;

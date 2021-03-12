@@ -1,4 +1,4 @@
-// Generated from https://github.com/nuke-build/nuke/blob/master/build/specifications/VSWhere.json
+// Generated from https://github.com/phillipsj/nuke/blob/master/build/specifications/VSWhere.json
 
 using JetBrains.Annotations;
 using Newtonsoft.Json;

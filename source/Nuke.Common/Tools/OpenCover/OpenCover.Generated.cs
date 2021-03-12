@@ -1,4 +1,4 @@
-// Generated from https://github.com/nuke-build/nuke/blob/master/build/specifications/OpenCover.json
+// Generated from https://github.com/phillipsj/nuke/blob/master/build/specifications/OpenCover.json
 
 using JetBrains.Annotations;
 using Newtonsoft.Json;
