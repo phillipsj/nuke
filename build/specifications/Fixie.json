@@ -10,8 +10,7 @@
   "tasks": [
     {
       "help": "The <c>dotnet fixie</c> command is used to execute Fixie unit tests in a given project.",
-      "postfix": "Fixie",
-      "definiteArgument": "fixie",
+      "postfix": "2",
       "settingsClass": {
         "properties": [
           {
